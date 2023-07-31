@@ -23,11 +23,11 @@ Our vision is to revolutionize the way people approach their health and fitness 
 3. USB cable (to connect Android device to your computer)
 
 # Features
-## Get your Daily Needed Calorie thru Profile Management
+## Get your Needed Daily Calories thru Profile Management
 You can calculate your needed Calorie Intake per day through your age, gender, height, and weight. Once get it, save it so you can compare it to the daily calories in your meal.
 ![3](https://github.com/AldrianResco-BSIT/Calosugan_App/assets/140998181/083f9295-6136-48c0-896a-f116e985e499)
 
-## Choose different food to calculate and total its calories
+## Choose many different food to calculate and total its calories
 This feature shows different foods with their calories and add them to your plate.
 ![4](https://github.com/AldrianResco-BSIT/Calosugan_App/assets/140998181/0ed2eca0-492b-4f30-b14d-535265e23c7b)
 
