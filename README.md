@@ -35,6 +35,9 @@ This feature shows different foods with their calories and add them to your plat
 The save feature of this app collects and saves all your intake. You can see them on the History Page of this app.
 ![5](https://github.com/AldrianResco-BSIT/Calosugan_App/assets/140998181/2e6a1325-2c2b-4cd5-88bd-b90d8963074e)
 
+# Demo Video
+https://youtu.be/PUsBTXghByI
+
 # Researchers / Developers:
 • Aldrian Resco
 
