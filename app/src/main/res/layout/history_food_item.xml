@@ -1,0 +1,60 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/foodNameTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="@color/darkcolor"
+        android:text="total calories"
+        android:textStyle="bold"/>
+
+
+        <TextView
+            android:text="date"
+            android:id="@+id/qtyTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="2dp"
+            android:textColor="#808080"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/totalCalTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:text="amount"
+            android:textAlignment="textEnd"
+            android:textColor="@color/darkcolor"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_gravity="end"
+            android:text="failed"
+            android:textAlignment="textEnd"
+            android:textStyle="bold"
+            android:textColor="#808080"
+            android:id="@+id/calTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="2dp"
+           />
+    </LinearLayout>
+</LinearLayout>
